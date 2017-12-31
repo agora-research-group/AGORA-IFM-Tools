@@ -16,4 +16,4 @@ crawler-flickr -- is an implementation multi-bounding-box using flickrapi and po
 
 ### 3. [client-cemaden](https://github.com/sidgleyandrade/client-cemaden)
 
-client-cemaden -- (coming soon)
+client-cemaden -- is a client application for the Cemaden Web Service to retrieve rainfall measurements and water levels from physical sensors, storing them into PostgreSQL database 
